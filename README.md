@@ -81,7 +81,7 @@ bootstrap-space
 We can add -xs, -sm, -md, -lg to controle for media
    
    
-  Rajab Natshah
-  rajab.natshah.com
-  rajab@natshah.com
+       Rajab Natshah
+http://rajab.natshah.com
+       rajab@natshah.com
  
