@@ -1,4 +1,4 @@
-Bootstrap space 3.x-1.1
+Bootstrap Space 3.x-1.1
 ===============
 
   Bootstrap Space for Twitter Bootstrap v3.
