@@ -82,6 +82,6 @@ We can add -xs, -sm, -md, -lg to controle for media
    
    
        Rajab Natshah
-http://rajab.natshah.com
-       rajab@natshah.com
+       http://natshah.com
+
  
