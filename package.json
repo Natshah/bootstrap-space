@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-space",
+  "version": "3.1.1",
+  "description": "Bootstrap Space for Twitter Bootstrap v3. To Control space around text or block contents with Bootstrap v3 in xs, sm, md, lg media.",
+  "dependencies": {
+    "bootstrap": "^3.*"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Natshah/bootstrap-space.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap3",
+    "spacing"
+  ],
+  "author": "Rajab Natshah <rajabn@gmail.com>",
+  "license": "MIT",
+  "homepage": "http://natshah.com"
+}

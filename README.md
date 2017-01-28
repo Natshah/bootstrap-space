@@ -1,4 +1,4 @@
-Bootstrap Space 3.x-1.1
+# Bootstrap Space 3.1.1
 ===============
 
   Bootstrap Space for Twitter Bootstrap v3.
@@ -78,10 +78,13 @@ Bootstrap Space 3.x-1.1
     space-bottom-4
 
 
-We can add -xs, -sm, -md, -lg to controle for media
+We can add -xs, -sm, -md, -lg to control for media
    
    
-       Rajab Natshah
-       http://natshah.com
-
+```
+composer require natshah/bootstrap-space
+```   
  
+   - Rajab Natshah
+   - http://natshah.com 
+
